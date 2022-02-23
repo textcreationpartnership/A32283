@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious speech together with the lord keeper's to both Houses of Parliament on Wednesday the 13th of October, 1675</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32283</idno>
+            <idno type="STC">Wing C3082</idno>
+            <idno type="STC">ESTC R21632</idno>
+            <idno type="EEBO-CITATION">09316589</idno>
+            <idno type="OCLC">ocm 09316589</idno>
+            <idno type="VID">42724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1305:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious speech together with the lord keeper's to both Houses of Parliament on Wednesday the 13th of October, 1675</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42724:1"/>
+            <pb facs="tcp:42724:1"/>
+            <p>His Majeſties GRACIOUS SPEECH Together with the Lord Keepers, To both Houſes of PARLIAMENT, On <hi>Wedneſday</hi> the 13<hi rend="sup">th</hi> of <hi>October,</hi> 1675.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties ſpecial Command.</hi>
+            </p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:42724:2"/>
+            <pb n="3" facs="tcp:42724:2"/>
+            <head>His Majeſties GRACIOUS SPEECH To both Houſes of PARLIAMENT, On <hi>Wedneſday</hi> the 13<hi rend="sup">th</hi> of <hi>October,</hi> 1675.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Meet you now with a more then uſual concern for the E<g ref="char:EOLhyphen"/>vent of this Seſsion, And I know it is but what may reaſo<g ref="char:EOLhyphen"/>nably be expected from that Care I owe to the preſervation of the Government. The cauſes of the laſt Prorogation, as I for My part do not deſire to remember, ſo I hope no man elſe will, unleſs it be to learn from thence, how to avoid the like occaſions for the future, And I pray conſi<g ref="char:EOLhyphen"/>der how fatal the conſequences may be, and how little benefit is like to redound to the People by it: However, if any thing of that kind ſhall ariſe, <hi>I</hi> deſire you would deferre thoſe debates, till you have brought ſuch publick Bills to perfection as may conduce to the good
+<pb n="4" facs="tcp:42724:3"/>
+and ſafety of the Kingdom; And particular<g ref="char:EOLhyphen"/>ly I recommend to you, whatever may tend to the Security of the Proteſtant Religion as it is now eſtabliſhed in the Church of <hi>England.</hi>
+            </p>
+            <p>I muſt likewiſe deſire your aſsiſtance in ſome Supplies, as well to take off the Anticipations which are upon my Revenue, as for the build<g ref="char:EOLhyphen"/>ing of Ships; and though the War has been the great cauſe of theſe Anticipations, yet I find by a late account I have taken of My Expences, that I have not been altogether ſo good an husband, as I might have been, and as I reſolve to be for the future: Although at the ſame time I have had the ſatisfaction to find, that <hi>I</hi> have been far from ſuch an extra<g ref="char:EOLhyphen"/>vagancy in My own Expence, as ſome would have the World believe. <hi>I</hi> am not ignorant, that there are many who would prevent the kindneſs of My Parliament to Me at this time; but <hi>I</hi> as well know that your affections have never failed me: And you may remem<g ref="char:EOLhyphen"/>ber, it is now above Three years ſince <hi>I</hi> have asked you any thing for My Own uſe.</p>
+            <p>
+               <hi>The reſt I refer to my Lord Keeper.</hi>
+            </p>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:42724:3"/>
+            <head>THE Lord Keepers SPEECH.</head>
+            <opener>
+               <salute>My Lords, and you the Knights, Citizens, and Burgeſſes of the Houſe of Commons,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Cauſes of this preſent Aſ<g ref="char:EOLhyphen"/>ſembly, and the Reaſons which have mov'd His Maje<g ref="char:EOLhyphen"/>ſty to command your Atten<g ref="char:EOLhyphen"/>dance upon Him at this Time, are of the higheſt Importance.</p>
+            <p>The King reſolve to enter into Terms of ſtricteſt Correſpondence and Endearment with His Parliament, To take your Counſel in His moſt Weighty Affairs, To impart all His Cares to you, To acquaint you with all His Wants and Neceſſities, To offer you all that can yet be wanting to make you enjoy your ſelves, To Eſtabliſh a right underſtand<g ref="char:EOLhyphen"/>ing Between Himſelf and His Three Eſtates, and Between the Eſtates themſelves, To re<g ref="char:EOLhyphen"/>dreſs all your Juſt complaints, and To put all His Subjects at Eaſe, as far as in Him lies, and can conſiſt with the Honour and the Safety of the Government.</p>
+            <p>
+               <pb n="6" facs="tcp:42724:4"/>And having made all theſe Advances to<g ref="char:EOLhyphen"/>wards you, He doubts not but you will be<g ref="char:EOLhyphen"/>have your ſelves like thoſe that Deſerve to be called the Kings Friends, and that you will put Him at Eaſe too.</p>
+            <p>There is no cauſe why any Fears of Reli<g ref="char:EOLhyphen"/>gion or Liberty ſhould Divert you.</p>
+            <p>For, His Majeſty hath ſo often recom<g ref="char:EOLhyphen"/>mended to you the Conſiderations of Reli<g ref="char:EOLhyphen"/>gion, ſo very often deſir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d you to Aſſiſt Him in His Care and Protection of it, That the Defender of the Faith is become the Advo<g ref="char:EOLhyphen"/>cate for it too, and hath Left all thoſe with<g ref="char:EOLhyphen"/>out Excuſe who ſtill remain under any kind of Doubts or Fears.</p>
+            <p>Again, The Care of your Civil Rights and Liberties hath been ſo much His Maje<g ref="char:EOLhyphen"/>ſties, that the more you Reflect upon theſe Concerns, the more you will find your ſelves oblig'd to acknowledge His Majeſties Ten<g ref="char:EOLhyphen"/>derneſs of you, and Indulgence to you.</p>
+            <p>Search your own Annals, the Annals of thoſe Times you Account moſt Happy, you will ſcarce find one Year without an Example of ſomething more Severe, and more Extra<g ref="char:EOLhyphen"/>ordinary, then a whole Reign hath yet pro<g ref="char:EOLhyphen"/>duced.</p>
+            <p>Peruſe the Hiſtories of Foreign Nations, and you ſhall find, Statues, and Altars too
+<pb n="7" facs="tcp:42724:4"/>
+have been Erected to the Memories of thoſe Princes, whoſe Beſt Vertues never arriv'd to half that Moderation, which We Live to See and to Enjoy.</p>
+            <p>No King did ever meet a Parliament with Juſter cauſe of Confidence in their Affections.</p>
+            <p>And therefore His Majeſty will not ſuffer Himſelf to Doubt, but relies firmly upon it that you will never forſake Him, when He is under any kind of Difficulties. He doth aſ<g ref="char:EOLhyphen"/>ſure Himſelf that you will now think fit to provide for His Honor and your own Safety, by Helping him to pay ſome part of His Debts, and to make His Navy as Great and as Conſiderable, as it ought to be.</p>
+            <p>For the Greatneſs of a King is the Greatneſs and the Safety of His People. The Springs and Rivers which pay Tribute to the Ocean, do not leſſen but preſerve themſelves by that contribution.</p>
+            <p>It is impoſſible that thoſe Affections which Piety and Allegeance firſt planted, which Perſecution could not abate, which the Gra<g ref="char:EOLhyphen"/>cious influences of His Majeſties happy Go<g ref="char:EOLhyphen"/>vernment have hitherto encreaſed, ſhould now appear to Wither and Decay.</p>
+            <p>But then the beſt Indication of the Heart is by the Hand. And becauſe it is of infinite moment to the Kings affairs that there ſhould
+<pb n="8" facs="tcp:42724:5"/>
+be a cheerfull concurrence to His Supply, Therefore Let Hand and Heart both joyn together in the Oblation, for that will make it a Sacrifice Well pleaſing indeed.</p>
+            <p>
+               <hi>My Lords and Gentlemen,</hi>
+            </p>
+            <p>The Happineſs of this preſent Age, and the Fate and Fortune of the Next too, is very much in your Hands and at this Time, All that you would deſire to ſettle and improve, All that you would wiſh to Secure and tranſ<g ref="char:EOLhyphen"/>mit to your Poſterities, may now be accom<g ref="char:EOLhyphen"/>pliſhed.</p>
+            <p>Would you Raiſe the due Eſtimation and Reverence of the Church of <hi>England</hi> to its juſt Height? Would you Provide for the Safety and Eſtabliſhment of it?</p>
+            <p>Do there want any Laws to ſecure the Peace and Quiet of the State?</p>
+            <p>Would you at once enrich and adorn this Kingdom, by providing for the Extent and improvement of Trade, by introducing New and uſeful Manufactures, and by encourage<g ref="char:EOLhyphen"/>ing thoſe we have already?</p>
+            <p>Would you prevent all Frauds and Perju<g ref="char:EOLhyphen"/>ries, all Delays and Abuſes in the Admini<g ref="char:EOLhyphen"/>ſtration of Juſtice?</p>
+            <p>Would you preſerve a famous City from being Depopulated by the Suburbs, Would
+<pb n="9" facs="tcp:42724:5"/>
+you Reſtrain the Exceſs of thoſe New Build<g ref="char:EOLhyphen"/>ings which begin to Swarm with Inhabitants unknown?</p>
+            <p>All your Petitions of this Kind will be Grateful to the King, and you may with eaſe effect all this and much more which your Great wiſdoms will ſuggeſt to you. A little Time will ſerve to make many Excel<g ref="char:EOLhyphen"/>lent Laws, and to give you the Honor of be<g ref="char:EOLhyphen"/>ing the Repairers of all our Breaches, So as that Time be wholly employ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d upon the Publique, and not taken up by ſuch Conſi<g ref="char:EOLhyphen"/>derations as are leſs Meritorious.</p>
+            <p>If therefore there be any without Doors, that Labour to diſunite your Counſels, or to render them ineffectual, If they can hope that the Occaſions for this may ariſe from ſome Differences within your ſelves, or hope by thoſe Differences to Diſguiſe their own diſaffections to your good proceedings<g ref="char:punc">▪</g> 'Tis in your Power to defeat thoſe Hopes, to pull off this Diſguiſe, and to ſecure a happy Concluſion of this meeting, by Studying to preſerve a good Correſpondence, and by a Careful avoiding of all ſuch Queſtions as are Apt to engender Strife.</p>
+            <p>And if ever there were a Time, when the Gravity and the Counſel, the Wiſdom, and the good Temper of a Parliament, were ne<g ref="char:EOLhyphen"/>ceſſary
+<pb n="10" facs="tcp:42724:6"/>
+to ſupport that Government which only can Support theſe Aſſemblies, certainly this is the Hour.</p>
+            <p>You ſee with what Zeal the King hath re<g ref="char:EOLhyphen"/>commended to you a good Agreement be<g ref="char:EOLhyphen"/>tween your Selves, and that He doth it with all the care and compaſſion, all the ear<g ref="char:EOLhyphen"/>neſtneſs and importunity, fit for ſo Great a Prince to expreſs, who would be very ſorry that any ſuch misfortune as your Diſagree<g ref="char:EOLhyphen"/>ment, ſhould either Deprive Him of your Advice and Aſſiſtance, or His People of thoſe good Laws which He is ready to Grant you.</p>
+            <p>There is no Other way Our Enemies can think of, by which 'tis poſſible for this Seſſions to miſcarry, For Fears and Jealou<g ref="char:EOLhyphen"/>ſies cannot enter here, Calumnies and Slan<g ref="char:EOLhyphen"/>ders will find no place amongſt Wiſe and Good men.</p>
+            <p>They that uſe theſe Arts abroad, will quickly be diſcredited, when the World ſhall ſee the Generous effects of your con<g ref="char:EOLhyphen"/>fidence. Men will Deſpair of Attempt<g ref="char:EOLhyphen"/>ing any Diſturbance in the State, when they ſee Every Step that tends that way, ſerves only to give you freſh Occaſions to teſtify your Loyalty and your Zeal.</p>
+            <p>
+               <pb n="11" facs="tcp:42724:6"/>You have all the Reaſon in the World to make men ſee this, For you have the ſame Monarchy to aſſert, the ſame Church to defend, the ſame Intereſts of Nobility and Gentry to maintain, the ſame Excellent King to contend for, and the ſame Enemies to contend againſt.</p>
+            <p>And now <hi>My Lords and Gentlemen,</hi>
+            </p>
+            <p>Since the whole Seſſion of Parliament is in the Judgment and Conſtruction of our Law but as one Day, Let us all endeavour that the morning of it, the firſt Entrance up<g ref="char:EOLhyphen"/>on it, may be with ſuch fair and ſuch Au<g ref="char:EOLhyphen"/>ſpicious Circumſtances as may give the whole Kingdom an aſſurance of a Bright and Cheer<g ref="char:EOLhyphen"/>ful Day.</p>
+            <p>Let no ill Humors gather into Clouds to darken or obſcure it, for this Day is a Cri<g ref="char:EOLhyphen"/>tical Day, and more depends upon that Judgment of our Affairs which will be made by it, then can eaſily be imagin'd.</p>
+            <p>It imports us therefore to take care that no part of this Time be loſt, Let every pre<g ref="char:EOLhyphen"/>cious Minute of this Day be ſpent in recei<g ref="char:EOLhyphen"/>ving ſuch Acts of Grace and Goodneſs as are ready to flow from the King, and in making ſuch Retributions for them as may become
+<pb n="12" facs="tcp:42724:7"/>
+the Grateful Hearts of the Beſt of Subjects, to the Beſt of Kings.</p>
+            <p>So ſhall this Day become a Day of diſap<g ref="char:EOLhyphen"/>pointment and diſcomfort to our Enemies, But to us and all good men a Glorious Day, a Day of Triumph and Deliverance, a Me<g ref="char:EOLhyphen"/>morable and a Joyful Day to this preſent and to all future Generations.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſsigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1675.</p>
+            <pb facs="tcp:42724:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
